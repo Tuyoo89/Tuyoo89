@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="[linkedin-url](https://www.linkedin.com/in/azizbek-mirzakolonov-3861b8236/)">
+    <a href="https://www.linkedin.com/in/azizbek-mirzakolonov-3861b8236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -15,7 +15,7 @@ focus is on designing and developing reliable APIs. I am striving to
 expand my knowledge of my specialty in order to develop more ambitious and
 interesting projects
 
-- 📄 Know about my experiences [CV](file:///C:/Users/user/Downloads/%D0%9C%D0%B8%D1%80%D0%B7%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%90%D0%B7%D0%B8%D0%B7%D0%B1%D0%B5%D0%BA%20%D0%9E%D0%B9%D0%B1%D0%B5%D0%BA%20%D0%A3%D0%B3%D0%BB%D0%B8.pdf)
+- 📄 Know about my experiences [CV](https://tashkent.hh.uz/resume/b62123c5ff0b31fee10039ed1f6e72764a7052)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/azizbek-mirzakolonov-3861b8236/), [email](mailto:mirzakolonovazizbek@gmail.com)
 - 🌍 I can speak in 3 languages
   - English, C1
